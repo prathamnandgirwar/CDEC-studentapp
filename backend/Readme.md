@@ -63,6 +63,9 @@ Run the generated JAR file by using the following command:
 
 java -jar target\spring-backend-v1.jar
 ```
+```bash
+java -jar target/student-registration-backend-0.0.1-SNAPSHOT.jar
+```
 
 The application will start and be accessible at:
 
